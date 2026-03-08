@@ -26,3 +26,9 @@ Kaynak klasöderdeki belirli formatlardaki dosyaları (JPG, PNG, GIF vb.) seçer
 ## Kurulum
 
 Kurulum gerekmez. Tıkla çalıştır ile kullanabilirsiniz.
+
+**Design4D — Dijital Tasarım Ajansı**  
+📍 Kocaeli — Türkiye  
+✉️ murat@yukselmurat.com  
+🌐 [yukselmurat.com](https://www.yukselmurat.com)
+🌐 [design4d.com.tr](https://www.design4d.com.tr)
